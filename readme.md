@@ -21,6 +21,7 @@ de que se dispone de muy poco tiempo para encontrar la solución, por lo que int
 con heurísticas, y se quiere encontrar una solución que no tenga muchos movimientos. Siempre debe
 buscarse una solución para que supere la condición de que cartera ≥ precio.
 Ejemplo con precio=12 (no se muestran los ceros):
+
 9 9 9 9 9 9 9 9 9 9
 9 2 9 6 1 9
 9 9 9 9 9 9 9
