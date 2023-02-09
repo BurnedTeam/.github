@@ -7,8 +7,8 @@ Currently, we are working on Artificial Intelligences in Python, an AI that must
 
 If you wish to contact us, you can find our Twitter profiles at the following links:
 - [Thander's Twitter](https://twitter.com/mipichula11)
-- [Alexeido's Twitter](twitter.com/minepejpg)
-- [Natera's Twitter](twitter.com/Im_Natera)
+- [Alexeido's Twitter](https://twitter.com/minepejpg)
+- [Natera's Twitter](https://twitter.com/Im_Natera)
 
 You can also find our Github profiles here:
 - [Thander's Github](https://github.com/Thander11)
