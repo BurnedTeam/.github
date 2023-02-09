@@ -6,13 +6,18 @@ Our first project, Development of Programs, is a Java application that simulates
 Currently, we are working on Artificial Intelligences in Python, an AI that must exit a maze in the shortest time possible with the exact number of coins requested. We also have knowledge in C++ and AT&T assembly.
 
 If you wish to contact us, you can find our Twitter profiles at the following links:
-- [Thander's Twitter](https://twitter.com/mipichula11)
-- [Alexeido's Twitter](https://twitter.com/minepejpg)
-- [Natera's Twitter](https://twitter.com/Im_Natera)
 
-You can also find our Github profiles here:
-- [Thander's Github](https://github.com/Thander11)
-- [Alexeido's Github](https://github.com/Alexeido)
+## Pablo Natera Muñoz (Natera)
+- [Natera's Twitter](https://twitter.com/Im_Natera)
 - [Natera's Github](https://github.com/Nateram)
+## Raúl Martin-Romo Sánchez (Thander)
+
+- [Thander's Twitter](https://twitter.com/mipichula11)
+- [Thander's Github](https://github.com/Thander11)
+
+## Alejandro Barrena Millán (Alexeido)
+
+- [Alexeido's Twitter](https://twitter.com/minepejpg)
+- [Alexeido's Github](https://github.com/Alexeido)
 
 We hope to work with you soon. Thank you for visiting BurnedTeam!
