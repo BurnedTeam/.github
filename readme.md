@@ -29,3 +29,25 @@ Se pide diseñar e implementar un sistema relacionado con los movimientos y acci
 ## Condiciones
 - Siempre debe buscarse una solución para que supere la condición de que cartera ≥ precio.
 ## Ejemplo
+
+### Fichero tablero 1:
+~~~
+12
+9,9,9,9,9,9,9,9,9,9,
+9,2,9,0,6,0,0,0,0,9,
+9,0,9,0,0,9,9,9,9,9,
+9,1,0,8,9,0,9,0,0,9,
+9,0,9,9,9,0,0,4,0,9,
+9,0,0,0,0,0,9,9,9,9,
+9,1,9,0,0,0,0,0,1,9,
+9,1,9,9,9,0,9,9,9,9,
+9,1,6,6,9,0,0,0,3,9,
+9,9,9,9,9,9,7,9,9,9,
+~~~
+### Salida:
+
+~~~
+AD, A, BI, BI, BI, B, B, B, BD, AI, A, AD, BD, D, BD, BD, B
+
+↗ ⬆ ↙ ↙ ↙ ⬇ ⬇ ⬇ ↘ ↖ ⬆ ↗ ↘ ➡ ↘ ↘ ⬇
+~~~
